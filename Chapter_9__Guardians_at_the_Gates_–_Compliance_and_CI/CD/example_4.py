@@ -1,1 +1,0 @@
-# Example rule: Ensure vulnerable libraries are not used

@@ -1,1 +1,0 @@
-if "password=" in line.lower():
