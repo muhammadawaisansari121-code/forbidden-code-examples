@@ -1,1 +1,0 @@
-def __init__(self, event, stakeholders, technical_cause, ethical_lapse):
