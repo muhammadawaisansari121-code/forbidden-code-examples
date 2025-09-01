@@ -1,0 +1,1 @@
+def get_feed(self, user_role):

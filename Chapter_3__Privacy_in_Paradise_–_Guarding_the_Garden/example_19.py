@@ -1,0 +1,1 @@
+print(collector.collect("User Location", consent=False))

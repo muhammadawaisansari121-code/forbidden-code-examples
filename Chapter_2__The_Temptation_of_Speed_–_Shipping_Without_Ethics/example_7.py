@@ -1,0 +1,1 @@
+plt.legend(loc="upper left", bbox_to_anchor=(1, 1))
