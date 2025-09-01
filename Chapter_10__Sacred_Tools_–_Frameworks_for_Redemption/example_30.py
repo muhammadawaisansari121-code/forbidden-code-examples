@@ -1,1 +1,0 @@
-def group_accuracy(y_true, y_pred, group_labels):
