@@ -1,1 +1,0 @@
-def collect(self, user_input, consent):

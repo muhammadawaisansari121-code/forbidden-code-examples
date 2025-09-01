@@ -1,1 +1,0 @@
-# Example: Implementing consent in code

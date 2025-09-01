@@ -1,1 +1,0 @@
-print(collector.collect("User Location", consent=True))

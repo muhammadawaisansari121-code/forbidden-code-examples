@@ -1,1 +1,0 @@
-heat_map = fitness_data.groupby('location').size()

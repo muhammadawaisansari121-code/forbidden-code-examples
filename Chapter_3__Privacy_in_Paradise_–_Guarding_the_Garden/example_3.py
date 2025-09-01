@@ -1,1 +1,0 @@
-# Sample fitness data

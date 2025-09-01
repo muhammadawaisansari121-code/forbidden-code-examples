@@ -1,1 +1,0 @@
-# Example: Demonstrating principle of least privilege

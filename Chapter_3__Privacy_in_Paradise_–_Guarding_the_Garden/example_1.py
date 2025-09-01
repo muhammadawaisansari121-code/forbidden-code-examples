@@ -1,1 +1,0 @@
-# Example: Simulating aggregation pitfalls

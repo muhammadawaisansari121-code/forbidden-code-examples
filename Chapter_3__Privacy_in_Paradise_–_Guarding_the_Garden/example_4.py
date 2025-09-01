@@ -1,1 +1,0 @@
-# Aggregating into a heat map simulation
