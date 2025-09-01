@@ -1,1 +1,0 @@
-# Calculate approval rates by gender

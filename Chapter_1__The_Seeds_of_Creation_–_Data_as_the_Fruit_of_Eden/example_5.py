@@ -1,1 +1,0 @@
-approval_rates = df.groupby("gender")["loan_approved"].mean()
