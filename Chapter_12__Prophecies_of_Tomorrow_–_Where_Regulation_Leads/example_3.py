@@ -1,0 +1,1 @@
+def log_and_validate(self, input_data, output_data):

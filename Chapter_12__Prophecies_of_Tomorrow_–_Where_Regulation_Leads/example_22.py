@@ -1,0 +1,1 @@
+dpd = demographic_parity_difference(y_true, y_pred, sensitive_features=sensitive_features)

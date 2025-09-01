@@ -1,0 +1,1 @@
+Solove, D. J. (2021). The myth of the privacy paradox. George Washington Law Review, 89(1), 1–55. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3536265
