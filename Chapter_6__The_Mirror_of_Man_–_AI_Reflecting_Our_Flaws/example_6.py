@@ -1,1 +1,0 @@
-groups = df[group_col].unique()

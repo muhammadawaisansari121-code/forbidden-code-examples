@@ -1,1 +1,0 @@
-accuracy_by_gender = group_accuracy(df, "gender", "approved", "prediction")
