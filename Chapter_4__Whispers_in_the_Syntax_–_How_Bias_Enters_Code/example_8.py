@@ -1,0 +1,1 @@
+def debias_vector(word, gender_direction):

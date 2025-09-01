@@ -1,0 +1,1 @@
+cm = confusion_matrix(subset[outcome_col], subset[pred_col])

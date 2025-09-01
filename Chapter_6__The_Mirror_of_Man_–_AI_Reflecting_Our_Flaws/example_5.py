@@ -1,0 +1,1 @@
+def group_accuracy(df, group_col, outcome_col, pred_col):

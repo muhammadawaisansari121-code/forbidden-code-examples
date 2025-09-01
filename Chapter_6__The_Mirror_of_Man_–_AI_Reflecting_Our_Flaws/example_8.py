@@ -1,0 +1,1 @@
+accuracy = (cm[0,0] + cm[1,1]) / cm.sum()
