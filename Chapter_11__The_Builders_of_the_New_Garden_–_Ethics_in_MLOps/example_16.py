@@ -1,1 +1,0 @@
-"group": np.random.choice(["A", "B"], size=data_size)  # Demographic group
