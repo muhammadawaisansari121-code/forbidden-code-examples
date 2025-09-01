@@ -1,1 +1,0 @@
-model = xgb.XGBClassifier(use_label_encoder=False, eval_metric='logloss')
