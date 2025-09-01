@@ -1,1 +1,0 @@
-plt.scatter(likelihood, impact, s=100, label=risk)

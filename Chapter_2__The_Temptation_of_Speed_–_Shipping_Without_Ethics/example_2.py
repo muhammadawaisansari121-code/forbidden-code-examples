@@ -1,1 +1,0 @@
-# Define risks with (likelihood, impact)
