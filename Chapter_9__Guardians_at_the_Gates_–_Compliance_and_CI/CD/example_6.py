@@ -1,0 +1,1 @@
+# Example rule: Prevent hardcoded credentials

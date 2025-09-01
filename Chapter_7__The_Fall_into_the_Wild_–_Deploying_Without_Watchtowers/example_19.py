@@ -1,0 +1,1 @@
+rates[group] = np.mean(y_pred[mask])

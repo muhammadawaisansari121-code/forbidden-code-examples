@@ -1,0 +1,1 @@
+groups = pd.Series(['A','A','B','B','B','A'])

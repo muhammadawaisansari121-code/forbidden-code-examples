@@ -1,0 +1,1 @@
+mask = (group_labels == group)

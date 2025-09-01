@@ -1,0 +1,1 @@
+fairness_df = f.get_group_value_fairness(bias_df)

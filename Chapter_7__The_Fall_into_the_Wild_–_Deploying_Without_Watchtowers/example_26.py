@@ -1,0 +1,1 @@
+def predict_and_log(model, input_data):

@@ -1,0 +1,1 @@
+def derive_lessons(self):

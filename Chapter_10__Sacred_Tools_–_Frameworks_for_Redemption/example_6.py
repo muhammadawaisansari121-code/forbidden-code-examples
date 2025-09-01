@@ -1,0 +1,1 @@
+xtab, _ = g.get_crosstabs(results)

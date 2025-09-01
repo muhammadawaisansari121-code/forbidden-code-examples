@@ -1,0 +1,1 @@
+acc = accuracy_score(y_true[mask], y_pred[mask])

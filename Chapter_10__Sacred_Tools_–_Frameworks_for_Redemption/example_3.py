@@ -1,0 +1,1 @@
+from aequitas.fairness import Fairness

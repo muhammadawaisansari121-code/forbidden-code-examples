@@ -1,0 +1,1 @@
+df = pd.DataFrame({"y_true": y_true, "y_pred": y_pred, "group": sensitive_attr})

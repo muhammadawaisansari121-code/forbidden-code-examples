@@ -1,0 +1,1 @@
+model = xgboost.XGBClassifier().fit(X_train, y_train)
