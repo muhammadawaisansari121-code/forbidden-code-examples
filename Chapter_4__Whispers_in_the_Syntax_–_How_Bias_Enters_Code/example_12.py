@@ -1,1 +1,0 @@
-debiased_vectors = {w: debias_vector(w, gender_direction) for w in words_to_debias}

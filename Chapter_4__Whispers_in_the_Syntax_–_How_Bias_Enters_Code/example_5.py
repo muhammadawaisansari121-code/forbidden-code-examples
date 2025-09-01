@@ -1,1 +1,0 @@
-# Test analogy: man is to computer programmer as woman is to ?

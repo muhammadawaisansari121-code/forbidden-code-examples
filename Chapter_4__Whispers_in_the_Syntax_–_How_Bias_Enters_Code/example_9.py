@@ -1,1 +1,0 @@
-projection = np.dot(vector, gender_direction) /

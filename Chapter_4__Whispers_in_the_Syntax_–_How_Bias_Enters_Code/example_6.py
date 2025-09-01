@@ -1,1 +1,0 @@
-result = model.most_similar(positive=["woman", "programmer"], negative=["man"], topn=5)

@@ -1,1 +1,0 @@
-def cosine_similarity(vec1, vec2):

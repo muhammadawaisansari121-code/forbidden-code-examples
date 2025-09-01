@@ -1,1 +1,0 @@
-# Check cosine similarity before and after
