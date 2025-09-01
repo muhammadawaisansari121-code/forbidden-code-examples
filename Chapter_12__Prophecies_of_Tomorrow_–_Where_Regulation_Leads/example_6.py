@@ -1,1 +1,0 @@
-predictions = my_model.predict(test_data)

@@ -1,1 +1,0 @@
-value = func(input_data, output_data)
