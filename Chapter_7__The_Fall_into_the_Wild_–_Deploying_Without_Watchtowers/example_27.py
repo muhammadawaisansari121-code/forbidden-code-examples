@@ -1,1 +1,0 @@
-prediction = model.predict(input_data)

@@ -1,1 +1,0 @@
-def demographic_parity(y_true, y_pred,

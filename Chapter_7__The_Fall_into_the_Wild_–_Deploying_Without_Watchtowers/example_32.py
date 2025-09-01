@@ -1,1 +1,0 @@
-tn, fp, fn, tp = confusion_matrix(y_t, y_p).ravel()

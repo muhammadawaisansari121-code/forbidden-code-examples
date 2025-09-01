@@ -1,1 +1,0 @@
-format="%(asctime)s - %(levelname)s - %(message)s"

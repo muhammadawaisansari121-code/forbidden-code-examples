@@ -1,1 +1,0 @@
-X = data.drop("fraud", axis=1)
